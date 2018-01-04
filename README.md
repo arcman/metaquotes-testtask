@@ -2,6 +2,7 @@
 MetaQuotes Software test task implementation
 
 Readme was copyleft from here:
+
 https://github.com/vladon/testtask-metaquotes
 
 Want it in Russian? Scroll down.
